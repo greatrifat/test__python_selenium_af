@@ -1,0 +1,17 @@
+test_empty_credentials (__main__.LoginPageTest.test_empty_credentials)
+Test login with both fields empty. ... ok
+test_empty_email (__main__.LoginPageTest.test_empty_email)
+Test login with empty email field. ... ok
+test_empty_password (__main__.LoginPageTest.test_empty_password)
+Test login with empty password field. ... ok
+test_invalid_email (__main__.LoginPageTest.test_invalid_email)
+Test login with invalid email. ... ok
+test_invalid_password (__main__.LoginPageTest.test_invalid_password)
+Test login with valid email but invalid password. ... ok
+test_valid_login (__main__.LoginPageTest.test_valid_login)
+Test valid login credentials. ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 57.686s
+
+OK
